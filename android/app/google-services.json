@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80617346433",
+    "firebase_url": "https://exchageratesmgr.firebaseio.com",
+    "project_id": "exchageratesmgr",
+    "storage_bucket": "exchageratesmgr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80617346433:android:9a971a3343c5651591c480",
+        "android_client_info": {
+          "package_name": "paica.arturos.restaurant_mgr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80617346433-g8p8ummpm50qfvkk795p6rl0kckd1g8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb0uOTpfT4uYnW91Ev-5GwigqKiiTsl3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80617346433-g8p8ummpm50qfvkk795p6rl0kckd1g8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
