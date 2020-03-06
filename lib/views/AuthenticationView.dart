@@ -227,9 +227,10 @@ class _SignInSignUpPage extends State<SignInSignUpPage> {
               child: Text(
                 'Credenciales',
                 style: TextStyle(
-                    fontSize: 40.0,
-                    color: Colors.black,
-                    fontWeight: FontWeight.bold),
+                  fontSize: 40.0,
+                  color: Colors.black,
+                  fontWeight: FontWeight.bold
+                ),
               ),
             )
           : new Center(

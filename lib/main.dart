@@ -7,6 +7,7 @@ import 'package:restaurant_mgr/Widgets/splashscreenCode.dart';
 void main() => runApp(RestaurantManager());
 
 class RestaurantManager extends StatelessWidget {
+
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(

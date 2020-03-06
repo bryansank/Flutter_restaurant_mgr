@@ -241,7 +241,7 @@ class _UpdateRatesState extends State<UpdateRatess> {
           ),
         ),
       ),
-    );  
+    ); 
   }
 
   Widget timeIconForm(){

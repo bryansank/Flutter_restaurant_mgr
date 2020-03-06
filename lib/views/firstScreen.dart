@@ -28,9 +28,16 @@ class ScreenRestList extends State<FirstScreenState> {
             child: Text(''),
             preferredSize: Size.fromHeight(10.0),
           ),
-          leading: IconButton(
+          leading: CircleAvatar(
+            backgroundColor: Colors.white,
+            radius: 15.0,
+            child: Image.asset(
+            "assets/img/restapp.png",
+            ),
+          ),/*IconButton(
             padding: EdgeInsets.only(right: 5.0),
             iconSize: 20.0,
+            /*
             icon: CircleAvatar(
               backgroundColor: Colors.white,
               radius: 20.0,
@@ -38,19 +45,20 @@ class ScreenRestList extends State<FirstScreenState> {
               "assets/img/restapp.png",
               ),
             ),
-            onPressed: () => {Navigator.pushNamed(context, "/ShowRest")},
-          ),
+            */
+            //onPressed: () => {Navigator.pushNamed(context, "/FirstScreen")},
+          ),*/
           actions: <Widget>[
             IconButton(
               padding: EdgeInsets.only(right: 5.0),
-              iconSize: 20.0,
+              iconSize: 25.0,
               icon: CircleAvatar(
                 backgroundColor: Colors.white,
-                radius: 20.0,
+                radius: 25.0,
                 child: Icon(
                   Icons.monetization_on,
                   color: Colors.green,
-                  size: 35.0,
+                  size: 40.0,
                 ),
               ),
               onPressed: () {Navigator.pushNamed(context, "/authservice");},
