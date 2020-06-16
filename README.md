@@ -1,16 +1,43 @@
 # restaurant_mgr
 
-A new Flutter application.
+*English: Hybrid mobile application developed with Flutter by Arturos/PAICA Venezuela, for manual updating of Exchange Rates connected to FirebaseBase DataBase services including authentication methods using API-Firebase_Auth and Push Notifications. 
 
-## Getting Started
+*Spanish: Aplicacion híbrida móvil desarrollada con Flutter, para la actualizacion manual de Tasas de Cambio conectados a servicios de FirebaseBase DataBase incluyendo metodos de autenticacion usando API-Firebase_Auth y Notificaciones Push.
 
-This project is a starting point for a Flutter application.
+## Start 🚀
 
-A few resources to get you started if this is your first Flutter project:
+_These instructions allow you to obtain a copy of the running project on your local machine for development and testing purposes_
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+flutter doctor.
+flutter clean. 
+flutter install.
+flutter run.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Requirements 📋
+
+_What things do you need to install the software and how to install them_
+
+Dart and Package Flutter install, using emulator device of AndroidStudio and VS-Code.
+
+###¿COMO LUCE?
+
+![PrtScr capture](https://user-images.githubusercontent.com/52433472/84819745-8829c880-afe6-11ea-9a0c-d0dc1520b44d.jpg)
+
+
+## authors ✒️
+
+_Mention all those who helped lift the project from its inception_
+
+* **Bryan Key** - *Trabajo Inicial* - [dev_bryansank](https://github.com/bryansank)
+* **Bryan Key** - *Documentación* - [dev_bryansank](https://github.com/bryansank) 
+
+## Licence 📄
+
+Este proyecto está bajo la licencia del HONOR.
+
+## Thanks! 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* Nunca pares de aprender
