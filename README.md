@@ -2,7 +2,7 @@
 
 *English: Hybrid mobile application developed with Flutter by Arturos/PAICA Venezuela, for manual updating of Exchange Rates connected to FirebaseBase DataBase services including authentication methods using API-Firebase_Auth and Push Notifications. 
 
-*Spanish: Aplicacion híbrida móvil desarrollada con Flutter, para la actualizacion manual de Tasas de Cambio conectados a servicios de FirebaseBase DataBase incluyendo metodos de autenticacion usando API-Firebase_Auth y Notificaciones Push.
+*Spanish: Aplicacion híbrida móvil desarrollada con Flutter para Arturos/PAICA Venezuela, con la finalidad de actualizar manualmente Tasas de Cambio conectados a servicios de FirebaseBase DataBase incluyendo metodos de autenticacion usando API-Firebase_Auth y Notificaciones Push.
 
 ## Start 🚀
 
